@@ -1,6 +1,6 @@
 # Blog Cards
 
-## A frontend of very basic cards for blogs.
+## A frontend of some very basic card templates for blogs.
 
 ### Description
 A blog card, that is very commonly used in blogging websites.
